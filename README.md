@@ -1,0 +1,2 @@
+# Hangman
+Coding challenge
